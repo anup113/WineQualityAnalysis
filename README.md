@@ -10,6 +10,7 @@ Wine quality has been one of the interesting topics among wine enthusiasts. This
 The dataset classifies the white wine samples from Portugal. The dataset is obtained from UCI, where the physiochemical properties of white wine are listed. There is a total of 4989 data samples that are used to determine the quality of the wine. The quality of the wine is scored in a scale of 3 to 8. However, for the purpose of binary classification, we convert this scale to represent it in terms of Good and Bad wine. If the quality is greater than 5, it is classified as good wine. On the other hand, if it is less than or equal to 5, it is classified as bad wine. We represent good and bad wine by 1 and 0 respectively.
 
 STEPS:
+
     1. Data Cleaning
     2. Exploratory Data Analysis - Feature Extraction
     3. Standardization (if required)
